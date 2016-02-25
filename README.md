@@ -20,3 +20,4 @@ java -jar log4jsamples.jar -Dlog4j.config=log4j.properties
 ```
 
 You can change configuration in log4j.properties, and run it again.
+
